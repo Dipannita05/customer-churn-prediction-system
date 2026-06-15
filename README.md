@@ -90,3 +90,17 @@ The web application allows users to:
 * Project Report
 * Presentations
 * Demo Video
+
+## Team Project
+
+This project was developed as a collaborative Project-Based Learning (PBL) initiative by a team of B.Sc. Data Science students. Team members contributed across various stages of the project, including data preprocessing, machine learning model development, database integration, dashboard creation, web application development, testing, documentation, and presentation.
+
+## Contributors
+
+* Dipannita Pramanik
+* Kanak Ghanekar
+* Sanjivani Sathe
+* Anant Singhal
+* Gouri Juvekar
+
+We worked together to design and develop a complete customer churn prediction solution integrating Machine Learning, Business Intelligence, Web Development, and AI-powered recommendations.
